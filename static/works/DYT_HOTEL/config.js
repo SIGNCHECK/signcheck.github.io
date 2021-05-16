@@ -36,7 +36,7 @@ module.exports={
     }],
     [{
       proportion: 1,
-      img: "2.png",
+      img: "1.png",
       ratio: 1.592
     }],
     [{
