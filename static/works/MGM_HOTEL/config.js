@@ -3,10 +3,11 @@ module.exports={
   works_content_en: {
     cover_title: "MGM HOTEL, QINGDAO",
     tag_list: ["Hotel"],
-    title: "MGM\nQINGDAO",
+    cover_intro:"MGM Qingdao are still under construction",
+    title: "MGM,\nQINGDAO",
     client: "SIIC",
     year: "2024",
-    intro: "Diaoyutai Hotel Qingdao and MGM Qingdao are still under construction even through the pandemic.",
+    intro: "Diaoyutai MGM Hospitality was established in 2007 as a joint venture of Diaoyutai State Guesthouse and MGM Resorts International. Taking advantage of the combined strength of the parent company brands, this high-end hotel management platform is focused on developing luxury hotels and resorts, residences, retail facilities and entertainment complexes, bringing a shared ethos of hospitality from China to the worldwide stage. At present, there are five hotel brands under the group - Diaoyutai, Bellagio by MGM, MGM, Mirage by MGM and Mhub by MGM.",
   },
 
   works_content_zh: {
@@ -32,24 +33,28 @@ module.exports={
     [{
       proportion: 1,
       img: "1.png",
-      ratio: 1.779
+      ratio: 0.75
+    },{
+      proportion: 1,
+      img: "2.png",
+      ratio: 0.75
     }],
     [{
       proportion: 1,
-      img: "1.png",
+      img: "2.png",
       ratio: 0.751
     },{
       proportion: 2,
-      img: "3.png",
+      img: "4.png",
       ratio: 1.658
     }],
     [{
       proportion: 1,
-      img: "4.png",
+      img: "5.png",
       ratio: 1.279
     },{
       proportion: 1,
-      img: "5.png",
+      img: "6.png",
       ratio: 1.332
     }]
   ]

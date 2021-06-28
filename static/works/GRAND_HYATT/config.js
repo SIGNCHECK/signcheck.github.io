@@ -1,9 +1,10 @@
 module.exports={
   id: "GRAND_HYATT",
   works_content_en: {
-    cover_title: "GRAND HYATT, SHENZHOU",
+    cover_title: "GRAND HYATT",
     tag_list: ["Hotel","Resort"],
-    title: "GRAND\nHYATT\nSHENZHOU\nPENINSULA",
+    cover_intro:"Who will refuse to enjoy the biggest resort- Grand Hyatt Sanya",
+    title: "GRAND HYATT,\nSHENZHOU PENINSULA",
     client: "SIIC",
     year: "2024",
     intro: "Hainan Wanning Shenzhou Peninsula is a key tourism development project in Hainan. It is located in the middle of the east coastline of Hainan. It has a planned land area of 18 square kilometers and a total construction area of approximately 4.06 million square meters. As of the first half of 2013, Chaoyang Coastal Apartment, Golf Club and Sports Building, Golf Villa, Beach Club, Badminton Hall and Swimming Pool, Junlinhai Sales Center, Xingyue Coastal Apartment, Junlinhai Apartment Decoration Project and other projects have been completed. Mainly responsible for the ongoing project for the Grand Hyatt Hotel Apartment project.",
@@ -36,7 +37,7 @@ module.exports={
     }],
     [{
       proportion: 1,
-      img: "1.png",
+      img: "2.png",
       ratio: 1.938
     }],
     [{

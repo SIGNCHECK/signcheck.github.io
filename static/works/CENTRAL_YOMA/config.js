@@ -3,7 +3,8 @@ module.exports={
   works_content_en: {
     cover_title: "CENTRAL YOMA, MYANMAR",
     tag_list: ["Mix-used Project"],
-    title: "CENTRAL\nYOMA\nMYANMAR",
+    cover_intro:"Yoma Central is a fully-integrated city quarter at the heart of Downtown Yangon",
+    title: "CENTRAL YOMA,\nMYANMAR",
     client: "Serge Pun",
     year: "2021",
     intro: "Yoma Central and The Peninsula Yangon was built in Myanmar. Both projects sit on an approximately 10-acre site in the heart of downtown Yangon. The brand identity is a refined brand symbol that takes reference from the building’s flowing connected architecture and the locations railway associations. The accompanying “Yoma Central” logotype was crafted to mirror the angular, 3D nature of the symbol, strengthening the brand identity. The design translates these rich expressions o fculture into a modern vernacular that represents th eessence of Myanmar an dengages the discriminating taste of international  brands/shoppers in a sophisticated, yet understated manner. Because Yoma Central is a fully-integrated city quarter at the heart of Downtown Yangon, fostering a community of business, lifestyle and cultural interests in one landmark development.",
@@ -35,7 +36,7 @@ module.exports={
       ratio: 0.944
     },{
       proportion: 1,
-      img: "1.png",
+      img: "2.png",
       ratio: 0.566
     }],
     [{

@@ -3,7 +3,8 @@ module.exports={
   works_content_en: {
     cover_title: "ATLANTIS, SANYA",
     tag_list: ["Mix-used Project"],
-    title: "ATLANTIS\nSANYA",
+    cover_intro:"Warm Welcome to the third seven stars hohtel located in sanya China ",
+    title: "ATLANTIS,\nSANYA",
     client: "Fosun",
     year: "2018",
     intro: "This is the third seven-star hotel in the world, this is exploring the unknown ocean kingdom, this is a dreamland full of imagination, this is... our most proud work. The entire plot of 540,000 square meters of fantasy paradise, plus a tourism complex with Eastern and Western characteristics and Sanya's local culture, create novel experiences and beautiful travel memories.\n Under the style narration of the theme of \"Marine Civilization\", the local environment and climate are also considered. In order to withstand the outdoor sunlight, wind and rain, we innovatively adopted anti-corrosion cement, combined with smart three-dimensional sculpture, \"moisturizing things silently\" to ensure the travel experience and space aesthetics.",
@@ -36,7 +37,7 @@ module.exports={
     }],
     [{
       proportion: 1,
-      img: "1.png",
+      img: "2.png",
       ratio: 2.474
     }],
     [{
