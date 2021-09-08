@@ -41,13 +41,13 @@ module.exports={
       ratio: 3.402
     }],
     [{
-      proportion: 1.22,
+      proportion: 1,
       img: "3.png",
       ratio: 1.718
     },{
       proportion: 1,
       img: "4.png",
-      ratio: 1.409
+      ratio: 1.8
     }],
     [{
       proportion: 1,

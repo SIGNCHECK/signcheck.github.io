@@ -32,8 +32,8 @@ module.exports={
   img_list: [
     [{
       proportion: 1,
-      img: "1.png",
-      ratio: 1.510
+      img: "1.jpg",
+      ratio: 1.519
     }],
     [{
       proportion: 1,

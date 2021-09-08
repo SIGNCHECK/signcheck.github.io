@@ -2,7 +2,7 @@ module.exports={
   id: "ONE_SHENNAN_SHENZHEN",
   works_content_en: {
     cover_title: "ONE SHENNAN, SHENZHEN",
-    tag_list: ["OFFICE"],
+    tag_list: ["Office"],
     title: "ONE SHENNAN",
     location:"SHENZHEN",
     client: "CR LAND",

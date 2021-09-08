@@ -2,7 +2,7 @@ module.exports={
   id: "BASIS_INTERNATIONAL_SCHOOL_HUIZHOU",
   works_content_en: {
     cover_title: "BASIS INTERNATIONAL SCHOOL, HUIZHOU",
-    tag_list: ["SCHOOL"],
+    tag_list: ["School"],
     title: "BASIS INTERNATIONAL SCHOOL",
     location:"HUIZHOU",
     client: "CR LAND",
@@ -48,17 +48,17 @@ module.exports={
     }],
     [{
       proportion: 0.865,
-      img: "4.png",
-      ratio: 0.764
+      img: "4.jpg",
+      ratio: 0.752
     },{
       proportion: 1,
-      img: "5.png",
-      ratio: 0.883
+      img: "5.jpg",
+      ratio: 0.750
     }],
     [{
       proportion: 1,
-      img: "6.png",
-      ratio: 1.776
+      img: "6.jpg",
+      ratio: 1.333
     }]
   ]
 }

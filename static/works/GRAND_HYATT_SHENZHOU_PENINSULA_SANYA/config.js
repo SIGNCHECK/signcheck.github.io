@@ -2,7 +2,7 @@ module.exports={
   id: "GRAND_HYATT_SHENZHOU_PENINSULA_SANYA",
   works_content_en: {
     cover_title: "GRAND HYATT PENINSULA, SHENZHOU",
-    tag_list: ["RESORT"],
+    tag_list: ["Resort"],
     title: "GRAND HYATT PENINSULA",
     location:"SHENZHOU",
     client: "CHINA OVERSEAS",
